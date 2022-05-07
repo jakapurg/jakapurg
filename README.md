@@ -33,7 +33,8 @@ Computer science student at [Faculty of Electrical Engineering and Computer Scie
   <img src="https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis"/>
   <img src="https://img.shields.io/badge/-Docker-white?style=flat-square&logo=docker"/>
   <img src="https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi"/>
-  <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat-square"/>
+  <img src="https://img.shields.io/badge/-React-20232A?logo=react&logoColor=white&style=flat-square"/>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-squaree&logo=go&logoColor=white"/>
 </p>
   
 
