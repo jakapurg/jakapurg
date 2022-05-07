@@ -1,6 +1,6 @@
 # Hi there 👋
 
-Computer science student at [Faculty of Electrical Engineering and Computer Science](https://feri.um.si/en/) with knowledge in both full-stack web development aswell as embedded systems. 
+Computer science student at [Faculty of Electrical Engineering and Computer Science](https://feri.um.si/en/) with knowledge in both full-stack web development as well as embedded systems. 
 
 - 🔭 I’m currently studying **Computer Science** at FERI
 - 🌱 I’m currently working with **React**, **NestJS** and **Python**
